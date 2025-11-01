@@ -176,7 +176,7 @@ export const SkillsInfo = [
       school: "Graphic Era Hill University, Uttarakhand",
       date: "Sept 2022 - July 2026",
       grade: "7.81 CGPA",
-      desc: "I have completed my Bachelor's degree (B.Tech) in Computer Science and Engineering from Graphic Era Hill University, Bhimtal. During my time at Gehu, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at Gehu has been instrumental in shaping my technical abilities and professional growth.",
+      desc:"I am currently pursuing my Bachelor's degree (B.Tech) in Computer Science and Engineering at Graphic Era Hill University, Bhimtal. During my time at Gehu, I have gained a strong foundation in programming, software development, and core computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participate in workshops and technical events, which continue to enhance my skills and knowledge. My experience at Gehu has been instrumental in shaping my technical abilities and professional growth.",
       degree: "Bachelor of Technology - B.Tech (Computer Science and Engineering)",
     },
    
